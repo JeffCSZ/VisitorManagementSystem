@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisitorManagementSystem", "VisitorManagementSystem\VisitorManagementSystem.csproj", "{23333052-A75F-4B00-9432-38112CACA4DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginDemo", "LoginDemo\LoginDemo.csproj", "{BED9F29B-79F1-4B7B-BA80-492D43509B73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23333052-A75F-4B00-9432-38112CACA4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23333052-A75F-4B00-9432-38112CACA4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23333052-A75F-4B00-9432-38112CACA4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23333052-A75F-4B00-9432-38112CACA4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED9F29B-79F1-4B7B-BA80-492D43509B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED9F29B-79F1-4B7B-BA80-492D43509B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED9F29B-79F1-4B7B-BA80-492D43509B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED9F29B-79F1-4B7B-BA80-492D43509B73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0832C324-8371-479B-A22E-AA2B3C7F4D72}
+	EndGlobalSection
+EndGlobal
